@@ -1,0 +1,16 @@
+{
+    "name": "hmd/telegram-bot",
+    "type": "prject",
+    "autoload": {
+        "psr-4": {
+            "Hmd\\TelegramBot\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Hamed Akbarzadeh",
+            "email": "h.akbarzadh@gmail.com"
+        }
+    ],
+    "require": {}
+}
